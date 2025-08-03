@@ -90,4 +90,4 @@ To explore the labs and datasets:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/OSMANHASSAN-dev/Practical_Labs_scientific_computing_tasks.git
+   https://github.com/lynexvijez/Sciantific_Computing_Practicals.git
